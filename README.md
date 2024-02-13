@@ -1,4 +1,4 @@
-irst Frontend Task
+First Frontend Task
 
 Description The Kicks.Inc website would aim to provide a comprehensive and engaging online platform for customers to explore and purchase the company's high-performance footwear and casual wear. The website should effectively showcase the brand's identity, highlight product features, facilitate seamless navigation, and encourage customer interaction. Objectives
 
